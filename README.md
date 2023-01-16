@@ -4,9 +4,6 @@ App Description
 TODO:// Add app description
 App Walk-though
 
-TODO:// Add the URL to your animated app walk-though gif in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
-
-TODO:// In the Features section below, add an x between the -[ ] like this - [x] for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 Required Features
 
    [x] 1. App displays an image of a school's logo
@@ -18,6 +15,6 @@ Required Features
 
 Optional Features
 
-   [] 1. User can tap a button to change the color of the background view
-   [] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-   [] 4. Any stylistic changes that are not default options (Comment this here)
+   [ ] 1. User can tap a button to change the color of the background view
+   [ ] 3. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
+   [ ] 4. Any stylistic changes that are not default options (Comment this here)
